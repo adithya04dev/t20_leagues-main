@@ -3,7 +3,7 @@
 import streamlit as st 
 
 
-st.title('T20 Leagues Stats Page')
+st.title('T20 Leagues Stats Page(Set-1)')
 
 st.markdown("[Batter Stats(Individual)](https://t20leaguesbatters.streamlit.app/)")
 st.write('Analyse batters stats by phases,bowling types')
