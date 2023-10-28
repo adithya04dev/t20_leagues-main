@@ -13,13 +13,13 @@ st.markdown("[Batters Comparison](https://t20leagues-tbowling-comp.streamlit.app
 st.write('Compare batters by phases,bowling types')
 st.markdown("[Bowlers Comparison](https://t20leagues-bowlerscomp.streamlit.app/)")
 st.write('Compare bowlers by phases,batting types')
-st.markdown("[Teams Batting Comparison](https://t20leagues-tbatting.streamlit.app/)")
+st.markdown("[Teams Batting Comparison](https://t20leagues-tbatting-comp.streamlit.app/)")
 st.write('Compare Teams Batting by phases,bowling types')
-st.markdown("[Teams Bowling Comparison](https://t20leagues-tbowling.streamlit.app/)")
+st.markdown("[Teams Bowling Comparison](https://t20leagues-teamsbowling-comp.streamlit.app/)")
 st.write('Compare Teams Bowling by phases,batting types')
-st.markdown("[Teams Batting Stats(Individual)](https://t20leagues-tbatting-comp.streamlit.app/)")
+st.markdown("[Teams Batting Stats(Individual)](https://t20leagues-tbatting.streamlit.app/)")
 st.write('Analyse Teams Batting stats by phases,bowling types')
-st.markdown("[Teams Bowling (Individual)](https://t20leagues-teamsbowling-comp.streamlit.app/)")
+st.markdown("[Teams Bowling (Individual)](https://t20leagues-tbowling.streamlit.app/)")
 st.write('Analyse Teams Bowling  stats by phases,bowling types')
 
 
